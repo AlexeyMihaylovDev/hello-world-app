@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h1>
-          Hello world with nginx web server
+          Hello worl
         </h1>
         <a
           className="App-link"
