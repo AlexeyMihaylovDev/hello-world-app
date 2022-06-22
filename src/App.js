@@ -12,6 +12,7 @@ function App() {
         <h1>
           Hello world
         </h1>
+        <p> {`Hello ${process.env.REACT_APP_NAME}` } </p>
         <a
           className="App-link"
           href="https://reactjs.org"
